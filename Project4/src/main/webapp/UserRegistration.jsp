@@ -47,10 +47,7 @@ body {
 				<th></th>
 				<td><input type="submit" name = "operation" value="SignUp"></td>
 			</tr>
-			<tr>
-				<th></th>
-				<td><input type="submit" name = "operation" value="SignIn"></td>
-			</tr>
+			
 		</table>
 	</form>
 </body>
